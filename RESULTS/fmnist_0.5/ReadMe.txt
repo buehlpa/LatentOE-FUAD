@@ -1,0 +1,1 @@
+run only until 0.4 0.05 due to ressources , need it for refine
